@@ -1,2 +1,5 @@
-'use client';
-export default function Providers({children}){return children}
+"use client";
+
+export default function Providers({children}:any){
+  return children;
+}
